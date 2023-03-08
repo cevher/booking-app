@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/cevher/bookings-app/pkg/config"
-	"github.com/cevher/bookings-app/pkg/handlers"
+	"github.com/cevher/booking-app/pkg/config"
+	"github.com/cevher/booking-app/pkg/handlers"
 	"net/http"
 )
 

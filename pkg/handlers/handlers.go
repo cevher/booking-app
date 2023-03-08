@@ -2,9 +2,9 @@ package handlers
 
 import (
 	"fmt"
-	"github.com/cevher/bookings-app/pkg/config"
-	"github.com/cevher/bookings-app/pkg/models"
-	"github.com/cevher/bookings-app/pkg/render"
+	"github.com/cevher/booking-app/pkg/config"
+	"github.com/cevher/booking-app/pkg/models"
+	"github.com/cevher/booking-app/pkg/render"
 	"net/http"
 )
 
